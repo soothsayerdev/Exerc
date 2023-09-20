@@ -5,9 +5,9 @@ j = 0
 for i in range(num1,num2 + 1):
     if (i % 13 != 0):
         j += i
-        
-        
 print(j)
+        
+        
     
     
 
